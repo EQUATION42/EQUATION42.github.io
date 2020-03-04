@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "三叶草国际语维基词典",
-        href: "https://github.com/klovien/klovien.github.io/wiki"
+        title: "矬",
+        href: "https://github.com/EQUATION42/EQUATION42.github.io/wiki"
     },{
-        title: "三叶草国际语互动社区",
-        href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
+        title: "dwarfish",
+        href: "https://mail.google.com/mail/ca"
     },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "zwergenhaft",
+        href: "https://pan.baidu.com/disk/home?#/all?path=%2F&vmode=list"
     },{
-        title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
+        title: "矬",
+        href: "https://zhuanlan.zhihu.com" 
     }
 ]
